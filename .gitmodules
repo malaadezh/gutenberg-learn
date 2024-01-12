@@ -1,6 +1,6 @@
 [submodule "boilerplate"]
 	path = boilerplate
-	url = /boilerplate
+	url = git@github.com:malaadezh/boilerplate.git
 [submodule "firstblock"]
 	path = firstblock
-	url = /firstblock
+	url = git@github.com:malaadezh/firstblock.git
