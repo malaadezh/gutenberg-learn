@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="537491f1-98aa-43cb-ae87-fbcb968dda05" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boilerplate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstblock/block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstblock/firstblock.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstblock/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstblock/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstblock/src/edit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstblock/src/editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstblock/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstblock/src/save.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstblock/src/style.scss" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +29,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -24,9 +45,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/local/Cellar/php/8.2.1_1/bin/php" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2arZasLMPfESl4MjYZVmdDT23h1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,7 +60,16 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/sergeydanko/Local Sites/gutenberg/app/public/wp-content/plugins",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.stylelint": "/Users/sergeydanko/Local Sites/gutenberg/app/public/wp-content/plugins/boilerplate/node_modules/stylelint",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "actions.on.save",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -51,7 +81,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705078724387</updated>
-      <workItem from="1705078725836" duration="221000" />
+      <workItem from="1705078725836" duration="2379000" />
+      <workItem from="1705082593361" duration="1100000" />
+      <workItem from="1705083698684" duration="524000" />
+      <workItem from="1705084227603" duration="1795000" />
+      <workItem from="1705086871946" duration="3238000" />
     </task>
     <servers />
   </component>
@@ -68,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
