@@ -4,3 +4,6 @@
 [submodule "firstblock"]
 	path = firstblock
 	url = git@github.com:malaadezh/firstblock.git
+[submodule "text-box"]
+	path = text-box
+	url = git@github.com:malaadezh/text-box.git

@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="537491f1-98aa-43cb-ae87-fbcb968dda05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/boilerplate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstblock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/boilerplate/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/boilerplate/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstblock/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/firstblock/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +18,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/boilerplate" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,7 +40,9 @@
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/sergeydanko/Local Sites/gutenberg/app/public/wp-content/plugins/firstblock",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "/Users/sergeydanko/Local Sites/gutenberg/app/public/wp-content/plugins/boilerplate/node_modules/stylelint",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -60,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705091232928</updated>
-      <workItem from="1705091235640" duration="688000" />
+      <workItem from="1705091235640" duration="1827000" />
     </task>
     <servers />
   </component>
