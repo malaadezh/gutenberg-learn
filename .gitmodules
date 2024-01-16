@@ -7,3 +7,6 @@
 [submodule "text-box"]
 	path = text-box
 	url = git@github.com:malaadezh/text-box.git
+[submodule "serhii-blocks-team-members"]
+	path = serhii-blocks-team-members
+	url = git@github.com:malaadezh/serhii-blocks-team-members.git
