@@ -10,3 +10,6 @@
 [submodule "malaadezh-blocks-team-members"]
 	path = malaadezh-blocks-team-members
 	url = git@github.com:malaadezh/malaadezh-blocks-team-members.git
+[submodule "malaadezh-team-grid"]
+	path = malaadezh-team-grid
+	url = git@github.com:malaadezh/malaadezh-team-grid.git
